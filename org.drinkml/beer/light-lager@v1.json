@@ -1,0 +1,33 @@
+{
+    "drinkml": "1.0.0",
+    "id": "org.drinkml:beer_light_lager@v1",
+    "name": "Light Lager",
+    "subtitle": "Light, sessionable",
+    "category": "beer",
+    "abv": 0.042,
+    "serving": {
+      "size_oz": 16,
+      "glass": "beer_can"
+    },
+    "color": {
+      "hex": "#F5C842",
+      "opacity": 0.88
+    },
+    "nutrition": {
+      "calories": 106,
+      "carbs_g": 6
+    },
+    "ingredients": {
+      "disclosure": "none"
+    },
+    "x-pound": {
+      "icon_name": "beer-can",
+      "category_display": "Beer",
+      "default_pour_oz": 16,
+      "search_tags": [
+        "lager",
+        "light",
+        "light lager"
+      ]
+    }
+  }
